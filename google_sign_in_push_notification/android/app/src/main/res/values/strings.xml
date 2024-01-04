@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="facebook_app_id">3088986207874317</string>
+    <string name="facebook_client_token">371e3ba7e0fcbe4453d0bb3c01b447b7</string>
+
+    <string name="fb_login_protocol_scheme">fb3088986207874317</string>
+    <string name="default_notification_channel_id" translatable="false">Rokomari</string>
+    <string name="default_notification_channel_name" translatable="true">Rokomari</string>
+</resources>

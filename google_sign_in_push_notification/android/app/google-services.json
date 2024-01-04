@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "546233373963",
+    "project_id": "signinpushnotification",
+    "storage_bucket": "signinpushnotification.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:546233373963:android:5a9b2dfe520a6422d0fe0e",
+        "android_client_info": {
+          "package_name": "com.example.google_sign_in_push_notification"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBySdWqFy_3Nyo454P-2RTwpCqmD_JD4uY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
